@@ -6,3 +6,10 @@ here as necessary.
 
 For all details about the week, [check out the page in
 TrainingKit](https://learn.lambdaschool.com/cs/sprint/reco0t22NdXmr8VyL).
+
+---
+
+### Day 1 Code Challenge 
+https://leetcode.com/problems/contains-duplicate/
+
+---

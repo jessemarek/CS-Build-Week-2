@@ -13,3 +13,8 @@ TrainingKit](https://learn.lambdaschool.com/cs/sprint/reco0t22NdXmr8VyL).
 https://leetcode.com/problems/contains-duplicate/
 
 ---
+
+### Day 2 Code Challenge
+https://leetcode.com/problems/two-sum/submissions/
+
+---

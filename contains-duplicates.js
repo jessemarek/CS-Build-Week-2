@@ -49,5 +49,5 @@ const containsDuplicateRefactor = function (nums) {
     let set = new Set(nums);
     // if there were duplicates in the array the set will be smaller
     // return the comparison of the set size and the array length
-    return set.size < nums.length
+    return set.size < nums.length;
 }

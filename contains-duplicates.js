@@ -43,3 +43,11 @@ const containsDuplicate = function (nums) {
 
     return hasDupes;
 };
+
+const containsDuplicateRefactor = function (nums) {
+    // create a new Set from the nums array, a Set will not store duplicates
+    let set = new Set(nums);
+    // if there were duplicates in the array the set will be smaller
+    // return the comparison of the set size and the array length
+    return set.size < nums.length
+}

@@ -11,6 +11,7 @@ Example:
   11  13  4
  /  \      \
 7    2      1
+
 The expected output given the above tree is 
 5 + 4 + 8 + 11 + 13 + 4 + 7 + 2 + 1, 
 so your function should return 55.
@@ -22,10 +23,13 @@ so your function should return 55.
 //   this.left = null;
 //   this.right = null;
 // }
+
+// keep track of the total
 let sum = 0;
+
 function tree_paths_sum(root) {
-    // keep track of the total
     // traverse the entire tree adding each node's value to the total
+
     // when we visit a node add its value to the sum
     sum += root.value;
 
